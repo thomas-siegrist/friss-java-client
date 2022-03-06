@@ -1,0 +1,144 @@
+/Library/Java/JavaVirtualMachines/jdk-17.0.1.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/thomassiegrist/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar:/Users/thomassiegrist/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar:/Users/thomassiegrist/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar:/Users/thomassiegrist/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar:/Users/thomassiegrist/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar:/Users/thomassiegrist/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar:/Users/thomassiegrist/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar:/Users/thomassiegrist/.m2/repository/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar:/Users/thomassiegrist/.m2/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar:/Users/thomassiegrist/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar:/Users/thomassiegrist/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.8/jackson-annotations-2.8.8.jar:/Users/thomassiegrist/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/thomassiegrist/workspace/java-client-generated/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/thomassiegrist/workspace/java-client-generated/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'swagger-java-client 1.0.0 API'
+-use
+-version
+-windowtitle
+'swagger-java-client 1.0.0 API'
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.api
+io.swagger.client
+io.swagger.client
+io.swagger.client
+/Users/thomassiegrist/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar = 1646307162636
+/Users/thomassiegrist/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar = 1646307162631
+/Users/thomassiegrist/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar = 1646307162655
+/Users/thomassiegrist/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar = 1646307162630
+/Users/thomassiegrist/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar = 1646307162737
+/Users/thomassiegrist/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar = 1646307162685
+/Users/thomassiegrist/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar = 1646307162836
+/Users/thomassiegrist/.m2/repository/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar = 1646308576741
+/Users/thomassiegrist/.m2/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar = 1646307589537
+/Users/thomassiegrist/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar = 1646308713360
+/Users/thomassiegrist/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.8/jackson-annotations-2.8.8.jar = 1646308713424
+/Users/thomassiegrist/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar = 1646308713549
+/Users/thomassiegrist/workspace/java-client-generated/src/main/java = 1646307030263
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/tag-search-index.js = 1646309528705
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/overview-tree.html = 1646309528595
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/module-search-index.js = 1646309528702
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/index.html = 1646309528596
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/package-search-index.js = 1646309528703
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/jquery-ui.overrides.css = 1646309528777
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/serialized-form.html = 1646309528437
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/index-all.html = 1646309528770
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/allpackages-index.html = 1646309528702
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/member-search-index.js = 1646309528705
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/script.js = 1646309528774
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/stylesheet.css = 1646309528773
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/overview-summary.html = 1646309528771
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/help-doc.html = 1646309528773
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/element-list = 1646309528420
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/allclasses-index.html = 1646309528702
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/type-search-index.js = 1646309528703
+/Users/thomassiegrist/workspace/java-client-generated/target/apidocs/search.js = 1646309528775

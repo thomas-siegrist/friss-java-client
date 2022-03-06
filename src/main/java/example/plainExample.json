@@ -1,0 +1,569 @@
+{
+  "additionalFields": {
+    "key": "value"
+  },
+  "parties": {
+    "ID2": {
+      "additionalFields": {
+        "key": "value"
+      },
+      "referenceId": null,
+      "contacts": [
+        {
+          "additionalFields": null,
+          "type": null,
+          "value": null
+        }
+      ],
+      "identifications": [
+        {
+          "additionalFields": null,
+          "type": null,
+          "value": null,
+          "expiryDate": null
+        }
+      ],
+      "bankAccounts": [
+        {
+          "additionalFields": null,
+          "number": null,
+          "type": null,
+          "bic": null,
+          "cardHolderName": null
+        }
+      ],
+      "address": {
+        "additionalFields": {
+          "key": "value"
+        },
+        "country": null,
+        "countryIso": null,
+        "city": null,
+        "postcode": null,
+        "street": null,
+        "houseNumber": null,
+        "houseNumberAddition": null,
+        "addressLine": null,
+        "location": null,
+        "state": null,
+        "province": null
+      },
+      "lawyer": null,
+      "lawyers": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "discriminator": "Company",
+      "name": null,
+      "legalForm": null
+    },
+    "ID1": {
+      "additionalFields": {
+        "key": "value"
+      },
+      "referenceId": null,
+      "contacts": [
+        {
+          "additionalFields": null,
+          "type": null,
+          "value": null
+        }
+      ],
+      "identifications": [
+        {
+          "additionalFields": null,
+          "type": null,
+          "value": null,
+          "expiryDate": null
+        }
+      ],
+      "bankAccounts": [
+        {
+          "additionalFields": null,
+          "number": null,
+          "type": null,
+          "bic": null,
+          "cardHolderName": null
+        }
+      ],
+      "address": {
+        "additionalFields": {
+          "key": "value"
+        },
+        "country": null,
+        "countryIso": null,
+        "city": null,
+        "postcode": null,
+        "street": null,
+        "houseNumber": null,
+        "houseNumberAddition": null,
+        "addressLine": null,
+        "location": null,
+        "state": null,
+        "province": null
+      },
+      "lawyer": null,
+      "lawyers": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "discriminator": "Person",
+      "firstName": null,
+      "lastName": null,
+      "fullName": null,
+      "initials": null,
+      "gender": null,
+      "prefix": null,
+      "birthCountryCode": null,
+      "nationality": null,
+      "birthDate": null,
+      "occupation": null,
+      "fraudRegistration": null,
+      "numberOfActivePolicies": null,
+      "maritalStatus": null,
+      "numberOfCancellations": null,
+      "claimIntoxication": null
+    }
+  },
+  "claim": {
+    "additionalFields": {
+      "key": "value"
+    },
+    "notes": null,
+    "policy": {
+      "additionalFields": {
+        "key": "value"
+      },
+      "broker": {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      },
+      "agent": null,
+      "agents": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "holders": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "policyManagers": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "mortgagees": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "leaseHolders": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "lienHolders": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "premiumPayers": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "objectsInsured": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "object": {
+            "additionalFields": {
+              "key": "value"
+            },
+            "owner": null,
+            "owners": [
+              {
+                "additionalFields": {
+                  "key": "value"
+                },
+                "reference": null
+              }
+            ],
+            "coverages": [
+              {
+                "additionalFields": {
+                  "key": "value"
+                },
+                "type": null,
+                "insuredAmount": null,
+                "amountExcess": null,
+                "annualPremium": null
+              }
+            ],
+            "reference": null,
+            "discriminator": "Vehicle",
+            "referenceId": null,
+            "bodystyle": null,
+            "licensePlate": null,
+            "vin": null,
+            "year": null,
+            "make": null,
+            "model": null,
+            "engineVolume": null,
+            "firstIssuingDate": null,
+            "firstAdmissionDate": null,
+            "firstImportDate": null,
+            "latestOwnerRegistrationDate": null,
+            "fuelType": "DIESEL",
+            "listPrice": null,
+            "mileage": null,
+            "power": null,
+            "priorDamage": [
+              "null"
+            ],
+            "registrationType": "INDIVIDUAL",
+            "status": null,
+            "trim": null,
+            "weight": null,
+            "drivable": null,
+            "value": null,
+            "repairShopAssociated": null,
+            "totalLoss": null,
+            "specialType": "TAXI",
+            "registrationAuthority": null,
+            "accessoriesValue": null,
+            "licenseplateState": "CA",
+            "isImported": null,
+            "regularDrivers": [
+              {
+                "additionalFields": {
+                  "key": "value"
+                },
+                "reference": null
+              }
+            ],
+            "additionalDrivers": [
+              {
+                "additionalFields": {
+                  "key": "value"
+                },
+                "reference": null
+              }
+            ]
+          }
+        }
+      ],
+      "policyId": null,
+      "inceptionDate": null,
+      "endDate": null,
+      "yearsWithoutClaim": null,
+      "insuredAmount": null,
+      "incurredAmount": null,
+      "annualPremium": null,
+      "product": null,
+      "channel": "EMAIL",
+      "type": null,
+      "signingDate": null,
+      "coverages": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "type": null,
+          "insuredAmount": null,
+          "amountExcess": null,
+          "annualPremium": null
+        }
+      ],
+      "previousExpiryDate": null,
+      "renewalDate": null,
+      "amountExcess": null,
+      "fleetFlag": null,
+      "paymentFrequency": "ANNUALLY",
+      "paymentType": "PAYMENT_UPFRONT",
+      "changes": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "type": null,
+          "date": null
+        }
+      ],
+      "last3Changes": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "type": null,
+          "date": null
+        }
+      ],
+      "applicationDate": null,
+      "freeClaim": null,
+      "status": "ACTIVE",
+      "latePaymentWarning": null,
+      "premiumDiscount": null,
+      "endReason": null,
+      "holderDateFirstPolicy": null,
+      "bonusMalusScale": null,
+      "bonusMalusPercentage": null,
+      "numberOfAssistanceClaims": null,
+      "commercialLabel": null,
+      "lossRatio": null,
+      "otherInsured": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "regularDrivers": [
+        {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        }
+      ],
+      "mileage": null
+    },
+    "witnesses": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      }
+    ],
+    "reporters": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      }
+    ],
+    "claimants": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      }
+    ],
+    "subClaims": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "notes": null,
+        "type": "INJURY",
+        "payees": [
+          {
+            "additionalFields": {
+              "key": "value"
+            },
+            "reference": null
+          }
+        ],
+        "experts": [
+          {
+            "additionalFields": {
+              "key": "value"
+            },
+            "reference": null
+          }
+        ],
+        "employers": [
+          {
+            "additionalFields": {
+              "key": "value"
+            },
+            "reference": null
+          }
+        ],
+        "reference": null,
+        "calculateSubScore": null,
+        "damageAmount": null,
+        "status": "OPEN",
+        "liability": null,
+        "timeReported": null,
+        "closingDate": null,
+        "reportedDate": null,
+        "amountPaid": null,
+        "amountRecovered": null,
+        "amountReserved": null,
+        "amountClaimed": null,
+        "coverages": [
+          {
+            "additionalFields": {
+              "key": "value"
+            },
+            "type": null,
+            "insuredAmount": null,
+            "amountExcess": null,
+            "annualPremium": null
+          }
+        ],
+        "damageType": null,
+        "claimant": {
+          "additionalFields": {
+            "key": "value"
+          },
+          "reference": null
+        },
+        "customType": null,
+        "cashSettlement": null,
+        "closedOutcome": null,
+        "reopenDate": null,
+        "exposureOwners": [
+          "null"
+        ],
+        "independentAdjusters": [
+          "null"
+        ],
+        "discriminator": "SubClaim"
+      }
+    ],
+    "address": {
+      "additionalFields": {
+        "key": "value"
+      },
+      "country": null,
+      "countryIso": null,
+      "city": null,
+      "postcode": null,
+      "street": null,
+      "houseNumber": null,
+      "houseNumberAddition": null,
+      "addressLine": null,
+      "location": null,
+      "state": null,
+      "province": null
+    },
+    "reportType": null,
+    "numberOfVehicles": null,
+    "numberOfThirdParties": null,
+    "numberOfInjured": null,
+    "incidentId": null,
+    "flag": [
+      "flag"
+    ],
+    "compensationType": null,
+    "amountRecovered": null,
+    "amountPaid": null,
+    "status": "OPEN",
+    "handler": null,
+    "statement": null,
+    "damageAmount": null,
+    "damageList": [
+      "null"
+    ],
+    "damageType": null,
+    "accidentType": null,
+    "liability": null,
+    "cause": null,
+    "amountReserved": null,
+    "reportedDate": null,
+    "occurredDate": null,
+    "claimId": null,
+    "timeOccurred": null,
+    "timeReported": null,
+    "policeInvolved": null,
+    "recoveryClaim": null,
+    "amountClaimed": null,
+    "reopenDate": null,
+    "closingDate": null,
+    "damageCauser": null,
+    "withdrawalReason": "COVERINOPERATIVE",
+    "faultRating": null,
+    "closedOutcome": null,
+    "thirdParties": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "legalEntityRef": null,
+        "customRole": null,
+        "object": null
+      }
+    ],
+    "staffAppraisers": [
+      "null"
+    ],
+    "custodians": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      }
+    ],
+    "adverseParties": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      }
+    ],
+    "vendors": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      }
+    ],
+    "pedestrians": [
+      {
+        "additionalFields": {
+          "key": "value"
+        },
+        "reference": null
+      }
+    ]
+  },
+  "branch": null,
+  "label": null,
+  "process": null,
+  "externalSource": null,
+  "externalScore": null,
+  "contactUserId": null
+}
